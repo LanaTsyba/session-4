@@ -6,22 +6,42 @@ html, body {
 	margin: 0;
 }
 
-header, footer {
+header, footer {background-color: pink;
 
+	border-style: solid;
+	border-color: #b668d8;
+
+margin: auto;
+max-width: 660px;
 }
 
 .centered {
 
 }
 
+{opacity: 0,2;
+}
 header .subtitle {
 
 }
 
-h1 {
+h1{
+	color:violet;
+	font-family: arial;
+	margin: auto;
+	font-weight: 800;
 
 }
 
+
+h1 {
+	background-color: pink
+}
+h1 {
+	width: 300px
+}
+h1 {height: 50px;
+}
 ul {
 	display: flex;
 	flex-wrap: wrap;
@@ -31,19 +51,22 @@ ul li {
 	width: 50%;
 }
 
-main {
+main {color: black;
+background-color: pink;
 
+border-style:solid;
+
+border-color:#b668d8;
 }
 
 section {
+}
+
+h2 {color:violet;
 
 }
 
-h2 {
-
-}
-
-h3 {
+h3 {color:grey;
 
 }
 
